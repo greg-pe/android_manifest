@@ -125,7 +125,7 @@
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="platform/external/skia" />
+  <project path="external/skia" name="platform_external_skia" remote="greg" revision="ics" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -170,7 +170,7 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
   <project path="hardware/ril" name="platform/hardware/ril" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
+  <project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" remote="greg" revision="ics" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
