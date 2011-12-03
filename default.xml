@@ -238,6 +238,6 @@
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
-  <project path="system/vold" name="android_system_vold" remote="cm" revision="ics" />
+  <project path="system/vold" name="platform_system_vold" remote="greg" revision="ics" />
 
 </manifest>
