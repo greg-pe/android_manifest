@@ -236,7 +236,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform_system_core" remote="greg" revision="ics" />
-  <project path="system/extras" name="platform/system/extras" />
+  <project path="system/extras" name="platform_system_extras" remote="greg" revision="ics" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/su" name="android_system_su" remote="cm" revision="ics" />
