@@ -207,6 +207,7 @@
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
+  <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="cm" revision="ics"/>
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
@@ -238,6 +239,7 @@
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
+  <project path="system/su" name="android_system_su" remote="cm" revision="ics" />
   <project path="system/vold" name="platform_system_vold" remote="greg" revision="ics" />
 
 </manifest>
