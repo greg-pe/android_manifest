@@ -250,6 +250,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/su" name="android_system_su" remote="cm" revision="ics" />
   <project path="system/vold" name="platform_system_vold" remote="greg" revision="ics" />
+  <project path="vendor/elite" name="platform_vendor_elite" remote="greg" revision="ics" />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="greg" revision="ics" />
 
 </manifest>
