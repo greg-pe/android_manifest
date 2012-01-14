@@ -28,9 +28,6 @@
   <project path="device/common" name="device/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/moto/common" name="device/moto/common" />
-  <project path="device/moto/stingray" name="device/moto/stingray" />
-  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
-  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/crespo" name="device/samsung/crespo" />
   <project path="device/samsung/crespo4g" name="device/samsung/crespo4g" />
@@ -170,18 +167,15 @@
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
-  <project path="hardware/cm" name="android_hardware_cm" remote="cm" revision="ics" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="greg" revision="ics" />
-  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="ics" />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="ics" />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="ics" />
-  <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cm" revision="ics" />
-  <project path="hardware/ril" name="android_hardware_ril" remote="greg" revision="ics" />
-  <project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" remote="greg" revision="ics" />
+  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
+  <project path="hardware/msm7k" name="platform/hardware/msm7k" />
+  <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
+  <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
+   <project path="hardware/ril" name="android_hardware_ril" remote="greg" revision="ics" />
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
-  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="ics"/>
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -219,7 +213,7 @@
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="cm" revision="ics" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
-  <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="greg" revision="ics" />
+  <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="cm" revision="ics" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
