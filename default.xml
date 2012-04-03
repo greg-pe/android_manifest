@@ -10,7 +10,7 @@
   <remote name="cm"
            fetch="git://github.com/CyanogenMod/" />
 
-  <default revision="refs/tags/android-4.0.3_r1"
+  <default revision="refs/tags/android-4.0.4_r1.1"
            remote="aosp"
            sync-j="4" />
 
