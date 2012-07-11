@@ -1,0 +1,23 @@
+Actngrezy
+===========
+
+Visit http://projectelite.net 
+
+Follow http://twitter.com/actngrezy
+
+To compile ProjectELite yourself follow instructions below
+
+Getting Started
+---------------
+
+Please see the [Android source page](http://source.android.com/source/index.html) for building instructions. Once you follow those instructions you can download the 
+
+To initialize your local repository using my trees, use the following command:
+
+    repo init -u git://github.com/greg-pe/platform_manifest.git -b jb
+
+Then to sync up:
+
+    repo sync
+
+
