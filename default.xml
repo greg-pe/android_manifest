@@ -307,6 +307,7 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="platform/system/vold" />
+  <project path="vendor/elite" name="platform_vendor_elite" remote="greg" revision="ics" />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="greg" revision="jb" />
 
 </manifest>
