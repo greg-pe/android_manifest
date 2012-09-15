@@ -14,6 +14,10 @@
            remote="aosp"
            sync-j="4" />
 
+  <notice>
+  ProjectELite has been successfully sync'd to your computer!
+  </notice>
+
   <project path="build" name="platform_build" remote="greg" revision="jb">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
