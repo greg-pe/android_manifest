@@ -56,7 +56,7 @@
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" />
+  <project path="external/bluetooth/bluez" name="platform_external_bluetooth_bluez" remote="greg" revision="jb" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
@@ -308,7 +308,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" />
+  <project path="system/bluetooth" name="platform_system_bluetooth" remote="greg" revision="jb" />
   <project path="system/core" name="platform_system_core" remote="greg" revision="jb" />
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
