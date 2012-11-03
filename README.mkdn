@@ -35,9 +35,23 @@ Choose the device:
 
 Select the number of your target build then
 
-  make -j4 otapackage 
+  make -j4 elite 
 
-You compile has now begun. See Android Source page for decided one what -j number to use
+  or
+
+  make -j4 otapackage
+
+You compile will now begin. See Android Source page for decided one what -j number to use
+
+PLEASE READ THIS!!!!!!!!!Important information
+  
+Using make elite or make otapackage
+  "make elite" will run squisher/opticharger "make otapackage" will build with running optipng
+To use make elite and run squisher properly you much have optinpng or pngcrush installed on your computer.
+
+Please be sure to build with the correct -j number. whether its -j4, -j8, or -j16 etc 
+
+
 
 
 
