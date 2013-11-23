@@ -18,9 +18,9 @@ First make a directory called pe and cd to that directory:
     cd ~/pe
 
 To initialize your local repository using my trees, use the following command:
-To build android ProjectElite based on android 4.2 use branch jb-4.2
+To build android ProjectElite based on android 4.4 use branch kk
 
-    repo init -u git://github.com/greg-pe/android_manifest.git -b jb-4.2
+    repo init -u git://github.com/greg-pe/android_manifest.git -b kk
 
 Then to sync up:
 
